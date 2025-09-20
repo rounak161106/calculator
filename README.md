@@ -17,7 +17,7 @@ This repository contains a basic calculator web application built using HTML, CS
 ## Live Demo
 
 You can view the live version of this calculator here:  
-
+https://rounak161106.github.io/calculator/
 
 
 Feel free to customize the live demo URL and add screenshots or examples to improve the repository presentation.
